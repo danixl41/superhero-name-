@@ -1,2 +1,1 @@
-# superhero-name-
-supeerhero names 
+pip install gui zero
